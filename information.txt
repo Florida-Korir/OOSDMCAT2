@@ -1,0 +1,12 @@
+ID: 
+Coach: 
+Description: 
+Author: 
+FEN: 
+Difficulty: 
+White Player Username: 
+Black Player Username: 
+Result: 
+Name: 
+Bio: 
+
